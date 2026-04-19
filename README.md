@@ -1,6 +1,6 @@
 # levelordermod
-levelordermod source code for geode and release no more updates will be done
-open to make forks of the mod and your own version.
+levelordermod source code for geode and release no more updates will be done.
+It's open for forks of the mod and your own version.
 
 Play levels in order!
 
