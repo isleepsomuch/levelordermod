@@ -1,0 +1,17 @@
+{
+	"geode": "5.2.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "isleepsomuch.levelordermod",
+	"name": "LevelOrderMod",
+	"version": "v1.1.0",
+	"developer": "ISleepSoMuch",
+	"description": "Lever order mod 1.1",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}
